@@ -1,0 +1,11 @@
+[project]
+name = "project1-energy-analysis"
+dependencies = [
+  "pandas",
+  "requests",
+  "python-dotenv",
+  "pyyaml",
+  "streamlit",
+  "plotly",
+  "statsmodels"
+]
