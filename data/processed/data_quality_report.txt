@@ -1,0 +1,12 @@
+DATA QUALITY REPORT
+==============================
+No missing values.
+
+Outliers Found: 1508
+ - Energy outlier in Chicago on 2025-04-11 00:00:00: -99
+ - Energy outlier in Chicago on 2025-04-11 00:00:00: -99
+ - Energy outlier in Chicago on 2025-04-12 00:00:00: -12950
+ - Energy outlier in Chicago on 2025-04-12 00:00:00: -14586
+ - Energy outlier in Chicago on 2025-04-12 00:00:00: -14307
+
+Data is fresh. Latest date: 2025-07-09
