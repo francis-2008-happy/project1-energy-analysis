@@ -8,7 +8,8 @@
 
 ## 📝 Prompts Examples
 
-> "Guide me step-by-step through a data science pipeline project. I’m a beginner."
+> "Guide me step-by-step through a data science pipeline project. I’m a beginner, do not do it for me but give me and 
+teach me evert step of the way"
 
 > "Add a city dropdown and a date range slider to a Streamlit heatmap."
 
