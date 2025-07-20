@@ -2,6 +2,7 @@
 name = "project1-energy-analysis"
 version = "0.1.0"
 description = "US Weather + Energy Analysis Pipeline"
+package-mode = false
 authors = ["Francis Happy <your.email@example.com>"]
 
 [build-system]
