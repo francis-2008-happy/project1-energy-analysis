@@ -1,12 +1,9 @@
-[project]
+[tool.poetry]
 name = "project1-energy-analysis"
 version = "0.1.0"
-dependencies = [
-  "pandas",
-  "requests",
-  "python-dotenv",
-  "pyyaml",
-  "streamlit",
-  "plotly",
-  "statsmodels"
-]
+description = "US Weather + Energy Analysis Pipeline"
+authors = ["Francis Happy <your.email@example.com>"]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
