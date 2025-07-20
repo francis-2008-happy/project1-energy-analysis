@@ -1,5 +1,6 @@
 [project]
 name = "project1-energy-analysis"
+version = "0.1.0"
 dependencies = [
   "pandas",
   "requests",
