@@ -85,6 +85,7 @@ source .venv/bin/activate  # or .venv\Scripts\activate on Windows
 
 ```bash
 uv pip install
+pip install -r requirements.txt
 ```
 
 ### 4. Configure secrets
