@@ -137,3 +137,5 @@ See [`video_link.md`](video_link.md) for the demo walkthrough (3 mins).
 ## ✅ Checklist
 
 *
+## ✅ Link to the Streamlit Dashboard
+https://francis-2008-happy-project1-energy-analysi-dashboardsapp-bshewp.streamlit.app/

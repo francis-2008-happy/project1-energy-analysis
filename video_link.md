@@ -16,15 +16,15 @@ This 3-minute video walkthrough covers:
 
 ### 📽️ Watch the Demo
 
-👉 [Watch Demo Video on YouTube](https://your-video-link.com)
+👉 [Watch Demo Video on YouTube](https://www.youtube.com/watch?v=_BAj553hzHs)
 
 
 ---
 
 ### 🔗 Bonus Links
 
-- 📁 GitHub Repository: [project1-energy-analysis](https://github.com/YOUR_USERNAME/project1-energy-analysis)
-- 🌐 Live Streamlit Dashboard: https://your-streamlit-app-url.com *(optional)*
+- 📁 GitHub Repository: [project1-energy-analysis](https://github.com/francis-2008-happy/project1-energy-analysis)
+- 🌐 Live Streamlit Dashboard: https://francis-2008-happy-project1-energy-analysi-dashboardsapp-bshewp.streamlit.app/
 
 ---
 
