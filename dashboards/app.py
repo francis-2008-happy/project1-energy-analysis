@@ -97,7 +97,7 @@ fig = px.scatter_mapbox(
         "lon": False,
     },
     color="Avg_Energy_MWh",
-    color_continuous_scale=px.colors.sequential.Blues,
+    color_continuous_scale=px.colors.sequential.Redor,
     mapbox_style="open-street-map",
 )
 
