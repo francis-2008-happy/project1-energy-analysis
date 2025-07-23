@@ -32,7 +32,9 @@ This 3-minute video walkthrough covers:
 
 ### Partner
  - Name:  Segun Oladeinde
- - Review: 
+ - Review:  Francis really did a great job building this weather and energy monitoring system from scratch using Python!
+            It’s a slick, reliable setup that tracks weather and energy use in real time with clean code and sharp visuals.
+            Great work Francis! 👏
 
 ---     
 
